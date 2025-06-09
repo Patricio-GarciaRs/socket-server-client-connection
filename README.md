@@ -1,5 +1,5 @@
 
-# Project Title
+# Connection to server using socket
 
 This is a simple socket server - client connection to start understanding the socket package from Python.
 
